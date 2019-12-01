@@ -1,0 +1,14 @@
+%{
+int vowel=0;
+int constant=0;
+
+%}
+int yywrap()
+{
+return 1;
+}
+int main(){
+yylex();
+printf("Vowel : %d\nConstant : %d",vowel,constant);
+
+}
