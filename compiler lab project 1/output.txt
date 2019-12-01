@@ -1,0 +1,75 @@
+header found :: abc
+
+header found :: math
+
+
+Comment found : #something
+
+
+array assign : array bijoy
+
+
+Comment found : #function
+
+
+function called
+main
+
+function called
+sum
+
+
+
+array assign : array ABC
+
+
+keyword Found : begin
+keyword Found : end
+
+
+varriable declared
+x
+y
+z
+
+Comment found : #expression
+
+value assign
+
+Mathematical expression
+
+
+loop found
+
+Inside Loop
+Loop ended
+
+
+
+if condition
+
+Inside condition
+condition ended
+
+
+elseif condition
+
+Inside condition
+condition ended
+
+
+else condition
+
+Inside condition
+condition ended
+
+Program ended
+----------------------------
+Number of header file : 2
+Number of Loop  : 1
+Number of condition  : 3
+Number of function  : 2
+Number of array  : 2
+Number of expression  : 2
+Number of declared number  : 1
+Number of Comment  : 3

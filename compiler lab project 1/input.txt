@@ -1,0 +1,41 @@
+import abc
+import math
+
+#something
+
+array bijoy
+
+#function
+
+function main
+function sum
+
+
+array ABC
+
+begin
+end
+
+
+number x,y,z
+
+#expression
+x=10
+z=x+9
+
+loop :i<=10
+something
+pool
+
+
+condition x<10
+faisal
+conend
+
+semicondition x>10
+ahmed
+conend
+
+nocondition
+bijoy
+conend
