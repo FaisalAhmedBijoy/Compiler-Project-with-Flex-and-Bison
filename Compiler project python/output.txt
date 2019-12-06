@@ -1,0 +1,313 @@
+
+Header file found :
+import mathematical
+
+Header file found :
+import exchangeInfo
+
+Header file found :
+import time
+
+main function strat
+
+Single line comment found :: # Variable declaration
+char declaration
+p
+q
+r
+
+variable Dection
+
+.........................................
+Declaration
+interger declaration
+a
+b
+c
+
+variable Dection
+
+.........................................
+Declaration
+
+Number :  5
+
+Number :  2
+
+Greater than :5 > 2 
+ 
+Number :  15
+
+Number :  30
+
+Subtraction :15-30=-15 
+ 
+Number :  20
+
+Number :  9
+
+Addition :20+9 = 29 
+value of expression in IF: -15
+
+.........................................
+
+Single line comment found :: # variable assignment
+a
+
+Number :  60
+
+Value of the variable: 60
+
+.........................................
+b
+
+Number :  30
+
+Value of the variable: 30
+
+.........................................
+c
+
+Number :  0
+
+Value of the variable: 0
+
+.........................................
+a
+b
+
+Greater than :60 > 30 
+ 
+Number :  10
+
+Number :  20
+
+Addition :10+20 = 30 
+
+Number :  30
+
+Addition :30+30 = 60 
+c
+
+value of expression in IF: 60
+
+.........................................
+a
+b
+
+Addition :60+30 = 90 
+
+Value of the variable: 90
+
+.........................................
+c
+
+Print Expression 90
+
+.........................................
+c
+a
+b
+
+Subtraction :60-30=30 
+ 
+Value of the variable: 30
+
+.........................................
+c
+
+Print Expression 30
+
+.........................................
+c
+a
+b
+
+Multiplication :60*30 
+ 
+Value of the variable: 1800
+
+.........................................
+c
+
+Print Expression 1800
+
+.........................................
+c
+a
+b
+
+Division :60/30 
+ 
+Value of the variable: 2
+
+.........................................
+c
+
+Print Expression 2
+
+.........................................
+
+Single line comment found :: # Series Mathematical expression
+a
+a
+
+Addition :60+60 = 120 
+b
+
+Addition :120+30 = 150 
+b
+
+Addition :150+30 = 180 
+value of expression: 180
+
+.........................................
+
+Single line comment found :: # IF ELSE Block
+a
+b
+
+Greater than :60 > 30 
+ a
+b
+
+Subtraction :60-30=30 
+ b
+a
+
+Subtraction :30-60=-30 
+ value of expression in IF: 30
+
+.........................................
+a
+b
+
+Addition :60+30 = 90 
+
+Print Expression 90
+
+.........................................
+
+Single line comment found :: # variable declaration
+float declaration
+x
+y
+z
+
+variable Dection
+
+.........................................
+Declaration
+
+Single line comment found :: # factorial calculation
+
+FACTORIAL declaration
+FACTORIAL of 5 is : 120
+
+.........................................
+
+Single line comment found :: # Odd Even calculation
+Odd Even Number detection 
+Number : 10 is -> Even
+
+.........................................
+
+Single line comment found :: #  While Loop Block
+
+Number :  10
+
+Number :  13
+
+Addition :10+13 = 23 
+value of expression: 23
+
+.........................................
+WHILE Loop execution
+value of the loop: 1 expression value: 23
+
+value of the loop: 2 expression value: 23
+
+.........................................
+
+Number :  4
+
+Print Expression 4
+
+.........................................
+WHILE Loop execution
+value of the loop: 1 expression value: 41
+
+value of the loop: 2 expression value: 41
+
+value of the loop: 3 expression value: 41
+
+.........................................
+
+Single line comment found :: #  Mathematical Expression
+
+Number :  16
+
+Value of Log(16) is : 2.772589
+value of expression: 2
+
+.........................................
+
+Number :  2
+
+Number :  4
+
+Power  :2 ^ 4 
+value of expression: 16
+
+.........................................
+
+Number :  30
+
+Value of Sin(30) is : 0.500001
+value of expression: 0
+
+.........................................
+
+Single line comment found :: # Print Fnction
+
+Number :  10
+
+Number :  15
+
+Addition :10+15 = 25 
+
+Print Expression 25
+
+.........................................
+
+Single line comment found :: # For Loop block
+
+Number :  3
+
+Number :  10
+
+Addition :3+10 = 13 
+value of expression: 13
+
+.........................................
+FOR Loop execution
+value of the  i: 3 expression value : 13
+
+value of the  i: 6 expression value : 13
+
+value of the  i: 9 expression value : 13
+
+value of the  i: 12 expression value : 13
+
+value of the  i: 15 expression value : 13
+
+.........................................
+interger declaration
+N
+ARRAY Declaration
+Size of the ARRAY is : 10
+char declaration
+C
+ARRAY Declaration
+Size of the ARRAY is : 5
+Main function END
