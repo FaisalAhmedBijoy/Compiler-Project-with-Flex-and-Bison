@@ -18,7 +18,7 @@
 
 %%
 
-program: MAIN ':' START cstatement END {printf("Main function END\n");}
+program: MAIN ':' START line END {printf("Main function END\n");}
 	 ;
 
 line: /* NULL */
