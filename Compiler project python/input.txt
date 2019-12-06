@@ -19,6 +19,18 @@ main:
 		20+9;
 	}
 
+	#Switch Case
+	
+	SWITCH (2)
+	{
+	CASE 1: 10+20;
+
+	CASE 2: 33-19;
+
+	DEFAULT : 22-15;
+	
+	}
+
 	# variable assignment
 
 	a=60;
@@ -108,5 +120,8 @@ main:
 
 	ARRAY INTEGER N (10);
 	ARRAY CHAR C (5);
+
+
+
 
 }	

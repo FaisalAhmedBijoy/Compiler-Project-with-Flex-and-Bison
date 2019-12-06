@@ -59,7 +59,10 @@
      TAN = 275,
      LOG = 276,
      FACTORIAL = 277,
-     IFX = 278
+     CASE = 278,
+     DEFAULT = 279,
+     SWITCH = 280,
+     IFX = 281
    };
 #endif
 

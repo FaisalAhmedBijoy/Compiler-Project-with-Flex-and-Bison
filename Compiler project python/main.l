@@ -13,7 +13,9 @@ Comment		[#].*
 	
 
 %%
-
+"CASE" 			{return CASE;}
+"SWITCH" 		{return SWITCH;}
+"DEFAULT" 		{return DEFAULT;}
 {digit}+	{yylval = atoi(yytext); return NUM; }
 "PRINTFUNCTION" 	{return PRINTFUNCTION; } 
 "IF" 			   {return IF;   }

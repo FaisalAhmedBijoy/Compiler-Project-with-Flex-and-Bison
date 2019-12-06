@@ -7,7 +7,7 @@
 
 /* bison declarations */
 
-%token NUM VAR IF ELSE ARRAY MAIN INT FLOAT CHAR START END FOR WHILE ODDEVEN PRINTFUNCTION SIN COS TAN LOG FACTORIAL
+%token NUM VAR IF ELSE ARRAY MAIN INT FLOAT CHAR START END FOR WHILE ODDEVEN PRINTFUNCTION SIN COS TAN LOG FACTORIAL CASE DEFAULT SWITCH
 %nonassoc IFX
 %nonassoc ELSE
 %left '<' '>'
@@ -18,7 +18,7 @@
 
 %%
 
-program: MAIN ':' START cstatement END {printf("Main function END\n");}
+program: MAIN ':' START line END {printf("Main function END\n");}
 	 ;
 
 line: /* NULL */
@@ -101,6 +101,11 @@ statement: ';'
 		printf("Size of the ARRAY is : %d\n",$5);
 	}
 
+	| SWITCH '(' NUM ')' START SWITCHCASE END {
+		printf("\nSWITCH CASE Declaration\n");
+		printf("\n.........................................\n");
+	}
+
 
 
 	
@@ -133,6 +138,22 @@ TYPE : INT   {printf("interger declaration\n");}
 ID1 : ID1 ',' VAR  
     |VAR  
     ;
+
+ SWITCHCASE: casegrammer
+ 			|casegrammer defaultgrammer
+ 			;
+
+ casegrammer: /*empty*/
+ 			| casegrammer casenumber
+ 			;
+
+ casenumber: CASE NUM ':' expression ';' {printf("Case No : %d & expression value :%d \n",$2,$4);}
+ 			;
+ defaultgrammer: DEFAULT ':' expression ';' {
+ 				printf("\nDefault case & expression value : %d",$3);
+ 			}
+ 		;
+
 
 expression: NUM					{ printf("\nNumber :  %d\n",$1 ); $$ = $1;  }
 
@@ -196,6 +217,7 @@ int main()
 	freopen("input.txt","r",stdin);
 	freopen("output.txt","w",stdout);
 	yyparse();
+
     
 	return 0;
 }

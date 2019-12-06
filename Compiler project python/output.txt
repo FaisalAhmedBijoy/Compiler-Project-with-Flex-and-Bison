@@ -51,6 +51,32 @@ value of expression in IF: -15
 
 .........................................
 
+Single line comment found :: #Switch Case
+
+Number :  10
+
+Number :  20
+
+Addition :10+20 = 30 
+Case No : 1 & expression value :30 
+
+Number :  33
+
+Number :  19
+
+Subtraction :33-19=14 
+ Case No : 2 & expression value :14 
+
+Number :  22
+
+Number :  15
+
+Subtraction :22-15=7 
+ Default case & expression value : 7
+SWITCH CASE Declaration
+
+.........................................
+
 Single line comment found :: # variable assignment
 a
 
