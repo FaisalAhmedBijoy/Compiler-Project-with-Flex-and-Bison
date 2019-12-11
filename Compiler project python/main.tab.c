@@ -1651,7 +1651,7 @@ yyreduce:
 /* Line 1455 of yacc.c  */
 #line 152 "main.y"
     {
- 				printf("Default case & expression value : %d",(yyvsp[(3) - (4)]));
+ 				printf("\nDefault case & expression value : %d",(yyvsp[(3) - (4)]));
  			;}
     break;
 
@@ -2014,3 +2014,4 @@ int main()
     
 	return 0;
 }
+
