@@ -1,0 +1,518 @@
+
+Header file found :
+import trycatch
+
+Header file found :
+import math
+
+Header file found :
+import time
+
+Main Function Start
+
+Single line Comment found :: # Variable declaration
+char declaration
+p
+q
+r
+
+variable Dection
+
+.........................................
+Declaration
+interger declaration
+a
+b
+c
+
+variable Dection
+
+.........................................
+Declaration
+
+Number :  5
+
+Number :  2
+
+Greater than :5 > 2 
+ 
+Number :  15
+
+Number :  30
+
+Subtraction :15-30=-15 
+ 
+value of expression: -15
+
+.........................................
+
+Number :  20
+
+Number :  9
+
+Addition :20+9 = 29 
+
+value of expression: 29
+
+.........................................
+value of expression in IF: -15
+
+.........................................
+
+Single line Comment found :: # Nested IF ELSE
+
+Number :  3
+
+Number :  1
+
+Greater than :3 > 1 
+ 
+Number :  5
+
+Number :  2
+
+Greater than :5 > 2 
+ 
+Number :  5
+
+Number :  2
+
+Addition :5+2 = 7 
+
+value of expression: 7
+
+.........................................
+
+Number :  5
+
+Number :  2
+
+Subtraction :5-2=3 
+ 
+value of expression: 3
+
+.........................................
+value of expression in IF: 7
+
+.........................................
+
+Number :  15
+
+Number :  10
+
+Greater than :15 > 10 
+ 
+Number :  25
+
+Number :  20
+
+Subtraction :25-20=5 
+ 
+value of expression: 5
+
+.........................................
+
+Number :  25
+
+Number :  20
+
+Addition :25+20 = 45 
+
+value of expression: 45
+
+.........................................
+value of expression in IF: 5
+
+.........................................
+value of expression in IF: 41
+
+.........................................
+
+Single line Comment found :: # Class Declaration
+New Class  Name : CLASS A
+a
+
+Number :  10
+
+Value of the variable: 10
+
+.........................................
+Class Declaration
+Expression : 10
+New Class  Name : CLASS B
+b
+
+Number :  20
+
+Value of the variable: 20
+
+.........................................
+Class Declaration
+Expression : 20
+
+Single line Comment found :: #inheritance Class 
+New Class  Name : CLASS C
+B
+c
+
+Number :  40
+
+Value of the variable: 40
+
+.........................................
+Inheritance occur 
+Expression value : 40
+Single line Comment found :: # TRY CATCH Block
+
+Number :  10
+
+Number :  0
+
+division by zero
+	
+value of expression: 0
+
+.........................................
+
+Number :  10
+
+Number :  15
+
+Number :  11
+
+Addition :15+11 = 26 
+
+value of expression: 26
+
+.........................................
+TRY CATCH block found
+TRY Block operation : 0
+CATCH Value : 10
+Catch Block operation :26
+
+.........................................
+
+Single line Comment found :: #Function declaration
+FUNCTION A
+
+Number :  10
+c
+a
+b
+
+Addition :10+20 = 30 
+
+Value of the variable: 30
+
+.........................................
+FUNCTION found :  
+Function Parameter : 10
+Function internal block statement : 30
+
+.........................................
+FUNCTION B
+a
+
+Number :  2
+
+Number :  5
+
+Addition :2+5 = 7 
+
+value of expression: 7
+
+.........................................
+FUNCTION found :  
+Function Parameter : 10
+Function internal block statement : 7
+
+.........................................
+
+Single line Comment found :: # For Loop block
+
+Number :  4
+
+Number :  8
+
+Addition :4+8 = 12 
+
+value of expression: 12
+
+.........................................
+FOR Loop execution
+value of the  i: 2 expression value : 12
+
+value of the  i: 5 expression value : 12
+
+value of the  i: 8 expression value : 12
+
+value of the  i: 11 expression value : 12
+
+value of the  i: 14 expression value : 12
+
+value of the  i: 17 expression value : 12
+
+.........................................
+
+Single line Comment found :: #  While Loop Block
+
+Number :  10
+
+Number :  13
+
+Addition :10+13 = 23 
+
+value of expression: 23
+
+.........................................
+WHILE Loop execution
+value of the loop: 2 expression value: 23
+
+value of the loop: 3 expression value: 23
+
+value of the loop: 4 expression value: 23
+
+.........................................
+
+Single line Comment found :: #Switch Case
+
+Number :  10
+
+Number :  20
+
+Addition :10+20 = 30 
+Case No : 1 & expression value :30 
+
+Number :  33
+
+Number :  19
+
+Subtraction :33-19=14 
+ Case No : 2 & expression value :14 
+
+Number :  9
+
+Number :  15
+
+Subtraction :9-15=-6 
+ Case No : 3 & expression value :-6 
+
+Number :  22
+
+Number :  15
+
+Subtraction :22-15=7 
+ 
+Default case & expression value : 7
+SWITCH CASE Declaration
+
+Finally Choose Case number :-> 2
+
+.........................................
+
+Single line Comment found :: # variable assignment
+a
+
+Number :  60
+
+Value of the variable: 60
+
+.........................................
+b
+
+Number :  30
+
+Value of the variable: 30
+
+.........................................
+c
+
+Number :  0
+
+Value of the variable: 0
+
+.........................................
+c
+a
+b
+
+Addition :60+30 = 90 
+
+Value of the variable: 90
+
+.........................................
+c
+
+Print Expression 90
+
+.........................................
+c
+a
+b
+
+Subtraction :60-30=30 
+ 
+Value of the variable: 30
+
+.........................................
+c
+
+Print Expression 30
+
+.........................................
+c
+a
+b
+
+Multiplication :60*30 
+ 
+Value of the variable: 1800
+
+.........................................
+c
+
+Print Expression 1800
+
+.........................................
+c
+a
+b
+
+Division :60/30 
+ 
+Value of the variable: 2
+
+.........................................
+c
+
+Print Expression 2
+
+.........................................
+
+Single line Comment found :: # Series Mathematical expression
+a
+a
+
+Addition :60+60 = 120 
+b
+
+Addition :120+30 = 150 
+b
+
+Addition :150+30 = 180 
+
+value of expression: 180
+
+.........................................
+a
+b
+
+Addition :60+30 = 90 
+
+Print Expression 90
+
+.........................................
+
+Single line Comment found :: # Print Fnction
+
+Number :  10
+
+Number :  15
+
+Addition :10+15 = 25 
+
+Print Expression 25
+
+.........................................
+interger declaration
+N
+ARRAY Declaration
+Size of the ARRAY is : 10
+
+.........................................
+char declaration
+C
+ARRAY Declaration
+Size of the ARRAY is : 5
+
+.........................................
+
+Single line Comment found :: # variable declaration
+float declaration
+x
+y
+z
+
+variable Dection
+
+.........................................
+Declaration
+
+Single line Comment found :: # factorial calculation
+
+FACTORIAL declaration
+FACTORIAL of 5 is : 120
+
+.........................................
+
+Single line Comment found :: # Odd Even calculation
+Odd Even Number detection 
+Number : 10 is -> Even
+
+.........................................
+
+Single line Comment found :: #  Mathematical Expression
+
+Number :  100
+
+Value of Log(100) is : 4.605170
+
+value of expression: 4
+
+.........................................
+
+Number :  3
+
+Number :  5
+
+Power  :3 ^ 5 
+
+value of expression: 243
+
+.........................................
+
+Number :  60
+
+Value of Sin(60) is : 0.866027
+
+value of expression: 0
+
+.........................................
+Main function END
+
+**********************************
+All the input parsing complete 
+
+**********************************
+Number of array : 2
+Number of if else : 2
+Number of while loop : 1
+Number of for loop :  1
+Number of SWITCHCASE : 1
+Number of class : 3 
+Number of Print function : 6
+Number of try catch : 1 
+Number of variable declaration :3 
+Number of variable assignment : 11 
+Number of expression : 15
+**********************************
+
+**********************************
+Name : Faisal Ahmed
+Roll :1607048
+Section : A
+Department : CSE
+University : KUET
+Email : faisal.cse16.kuet@gmail.com
+
+**********************************
