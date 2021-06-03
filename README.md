@@ -11,7 +11,6 @@
 
 <h2>Features of the final Project</h2>
 <ol>
-<li></li>
 	<li>header file</li>
 	<li>Main function</li>
 	<li>Comments</li>
